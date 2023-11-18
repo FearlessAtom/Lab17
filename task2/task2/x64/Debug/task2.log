@@ -1,0 +1,3 @@
+﻿  task2.cpp
+C:\Users\357\Desktop\Лр17 Основи програмування\task2\task2\task2.cpp(4,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  task2.vcxproj -> C:\Users\357\Desktop\Лр17 Основи програмування\task2\x64\Debug\task2.exe

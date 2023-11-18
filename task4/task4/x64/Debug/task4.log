@@ -1,0 +1,5 @@
+﻿  task4.cpp
+C:\Users\357\Desktop\Лр17 Основи програмування\task4\task4\task4.cpp(19,9): warning C4101: 'ah': unreferenced local variable
+C:\Users\357\Desktop\Лр17 Основи програмування\task4\task4\task4.cpp(19,17): warning C4101: 'ch': unreferenced local variable
+C:\Users\357\Desktop\Лр17 Основи програмування\task4\task4\task4.cpp(19,13): warning C4101: 'bh': unreferenced local variable
+  task4.vcxproj -> C:\Users\357\Desktop\Лр17 Основи програмування\task4\x64\Debug\task4.exe
